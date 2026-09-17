@@ -20,3 +20,8 @@ Another example is a link to
 [Wikipedia](https://wikipedia.org)
 
 [Build link](docs/build.md)
+
+## Images 
+
+"to turn on the device press the power button" ![Power Button Icon](power.png)
+
