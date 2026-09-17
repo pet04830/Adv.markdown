@@ -19,4 +19,4 @@ For example
 Another example is a link to 
 [Wikipedia](https://wikipedia.org)
 
-[Build link](build.md)
+[Build link](docs/build.md)
