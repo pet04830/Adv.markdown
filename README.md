@@ -11,7 +11,7 @@ today we will learn
 to make a link you need the *link text* 
 and the *URL*
 Put the link text in square brackets, and the 
-URL in parenthese (no space between them.)
+URL in parentheses (no space between them.)
 
 For example 
 [University of Minnesota](https://www.myu.umn.edu/psp/psprd/EMPLOYEE/EMPL/h/?tab=DEFAULT)
@@ -28,3 +28,17 @@ Another example is a link to
 Heres a screenshot of an app we will use later in the semester called oxygen:
 
 ![an application window showing tool bar at the top and controls on left and right and text is in the middle ](oxygen-author.png)
+
+## Tables 
+
+Heres a sample table 
+
+| Name | Value | 
+| ---- | ----- |
+| One  | 1     |
+| Two  | 2     |
+| Three | 3    |
+
+
+
+
