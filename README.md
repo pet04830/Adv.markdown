@@ -25,3 +25,6 @@ Another example is a link to
 
 "to turn on the device press the power button" ![Power Button Icon](power.png)
 
+Heres a screenshot of an app we will use later in the semester called oxygen:
+
+![an application window showing tool bar at the top and controls on left and right and text is in the middle ](oxygen-author.png)
